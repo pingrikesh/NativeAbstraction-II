@@ -1,0 +1,19 @@
+{
+  "name": "basnetcsc317finals",
+  "version": "1.0.0",
+  "description": "Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "finals"
+  ],
+  "author": "Rikesh Basnet",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "nan": "^2.13.2",
+    "util": "^0.12.0"
+  }
+}
